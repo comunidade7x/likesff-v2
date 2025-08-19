@@ -1,13 +1,13 @@
-🚀 Bot Likes FF - API Gratuita de Likes
+🎮 Bot Likes FF - API Gratuita de Likes
 
 
 
 
 
-Uma API gratuita para adicionar likes diários a jogadores de Free Fire usando apenas o uid.
-✅ Não precisa mais de token.
-💡 Simples, rápido e seguro.
-🎯 Respostas completas em JSON com detalhes do jogador e status do envio.
+API grátis e simplificada para adicionar likes diários a jogadores de Free Fire usando apenas o uid.
+✅ Sem necessidade de token
+🎯 Respostas completas em JSON com informações detalhadas do jogador
+💡 Fácil de integrar e usar
 
 
 ---
@@ -108,13 +108,13 @@ uid	number	Sim	ID do jogador Free Fire
 
 ⚡ Vantagens
 
-Sem necessidade de token ou autenticação complexa
+🌟 Gratuito e sem token
 
-Respostas JSON detalhadas e estruturadas
+📝 Respostas JSON detalhadas
 
-Sistema 100% gratuito e confiável
+🎯 Fácil integração
 
-Mantido por @Regiis7x
+🔧 Mantido por @Regiis7x
 
 
 
@@ -123,3 +123,16 @@ Mantido por @Regiis7x
 💡 Exemplo rápido de uso com curl:
 
 curl "https://botlikesff.rexapi.com.br/api/v2/likes?uid=123456789"
+
+
+---
+
+🔹 Observações
+
+Este endpoint adiciona 100 likes diários automaticamente.
+
+UID é obrigatório e único por jogador.
+
+Em caso de erro inesperado, tente novamente ou contate o suporte.
+
+Respostas incluem status, detalhes do jogador e informações sobre os likes.
